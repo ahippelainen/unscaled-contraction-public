@@ -1,0 +1,23 @@
+# Map for 4*Q' on the full cube, 16 points
+# inequality: Q'
+# k: 4
+# domain: cube
+# lhs: A B C ABC
+# rhs: AB AC
+point	AB	AC
+0000	0	0
+1000	0	4
+0100	3	0
+1100	2	2
+0010	0	4
+1010	4	4
+0110	0	0
+1110	2	2
+0001	2	2
+1001	4	4
+0101	4	0
+1101	3	2
+0011	0	4
+1011	4	4
+0111	0	0
+1111	2	2

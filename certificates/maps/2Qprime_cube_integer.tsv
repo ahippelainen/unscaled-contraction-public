@@ -1,0 +1,23 @@
+# Map for 2*Q' on the full cube, 16 points
+# inequality: Q'
+# k: 2
+# domain: cube
+# lhs: A B C ABC
+# rhs: AB AC
+point	AB	AC
+0000	0	0
+1000	0	2
+0100	2	0
+1100	1	1
+0010	0	2
+1010	1	2
+0110	0	0
+1110	0	1
+0001	1	1
+1001	2	2
+0101	2	0
+1101	1	1
+0011	0	2
+1011	1	2
+0111	0	0
+1111	0	1
